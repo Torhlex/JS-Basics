@@ -1,0 +1,13 @@
+Declare two variables: firstName and lastName. 1
+Assign the value "Kehinde" to firstName     2
+Assign the value "Odetola" to   lastName   2
+Copy the value from firstName AND lastName to boss. i.e variable  boss should be equal to Kehinde Odetola  3
+Show the value of boss using alert .  2
+Create a variable with the name of our planet. How would you name such a variable?  2
+Create a variable to store the name of a current visitor to a website. How would you name that variable? 2
+create an array arr of 20 items in it 3
+output the items with positions in a  multiple of 5  in  array  arr      4
+create an dog Object with 4 properties.  2
+create an array of objects of 8  different animals and output 1 of each animal's properties 5
+ Create a variable for ptpAmount and write a conditional statement using if and else for different cases of the PTP Amount; Have an output for any possible amount. (be creative here for the possible scenarios of PTP). 5
+Bonus question.. At Bfree Mentorship Programme Which team stands out as the best ? and why?
