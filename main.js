@@ -131,7 +131,7 @@ if ((PtpAmount1 = 200000)) {
   AmountToPay = "true";
 } else if (PtpAmount1 < 200000) {
   AmountToPay = "False";
-  console.log(PtpAmount);
+  console.log(PtpAmount1);
 }
 
 let PtpAmount2 = 100000;
